@@ -194,7 +194,7 @@ Contributors actively engage with the community and support others across all st
 
 ### Core Developer (only code and modelling streams)
 
-Core Developers drive daily project contributions, review and approve PRs aligning with Coordinators on quality requirements and development priorities. Each Core Developer is free in choising their preferred way to contribute but must align with maintainers to ensure a suggested contribution is consistens with the stream priorities, conventions and values. Core Developers can contribute into creating long-term developement roadmaps
+Core Developers drive daily project contributions, review and approve PRs aligning with Coordinators on quality requirements and development priorities. Each Core Developer is free in choising their preferred way to contribute but must align with maintainers to ensure a suggested contribution is consistens with the stream priorities, conventions and values. Core Developers can contribute into creating long-term developement roadmaps.
 
 In code repositories, a code review with approval by core developers is meaningful for a decision to merge changes.
 
